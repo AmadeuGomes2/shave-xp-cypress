@@ -1,0 +1,14 @@
+{
+  "name": "shave-xp-cypress",
+  "version": "1.0.0",
+  "description": "Projetos de testes de ponta a ponta para o Shave eXperience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amadeu Gomes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
